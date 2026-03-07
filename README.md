@@ -12,64 +12,65 @@ I build backend systems that are clean, secure, and production-ready. Currently 
 
 ## 🚀 Projects
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
 ### 🏦 [loan-engine-final](https://github.com/paritoshpky5/loan-engine-final)
-> **Java · Spring Boot · REST API**
+`Java` `Spring Boot` `REST API`
 
-A Spring Boot REST service that evaluates loan applications and decides whether to **approve or reject** them based on applicant eligibility and EMI affordability.
+A Spring Boot service that evaluates loan applications and decides **approve or reject** based on eligibility and EMI affordability.
+- Credit evaluation business rules engine
+- Mirrors real-world loan origination workflows
 
-- Implements business rules for credit evaluation and loan eligibility
-- REST endpoints for application submission and decision retrieval
-- Designed around real-world lending workflows
-
----
+</td>
+<td width="50%" valign="top">
 
 ### 🔐 [springboot-rbac-jwt](https://github.com/paritoshpky5/springboot-rbac-jwt)
-> **Java · Spring Security · JWT · RBAC**
+`Java` `Spring Security` `JWT` `RBAC`
 
-A production-style **Role-Based Access Control** system built with Spring Boot and JWT authentication.
+Production-style **Role-Based Access Control** with JWT — security patterns from real banking deployments.
+- Stateless JWT auth + role-based endpoint authorization
+- Clean separation of auth and business logic
 
-- Stateless JWT-based authentication flow
-- Role-based endpoint authorization (e.g., ADMIN, USER)
-- Spring Security filter chain configuration
-- Clean separation of auth logic from business logic
-
----
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### 💡 [special36](https://github.com/paritoshpky5/special36)
-> **Java · Data Structures & Algorithms**
+`Java` `DSA` `Interview Prep`
 
-A curated set of **36 handpicked coding problems** — self-selected for interview relevance and problem-solving depth.
+**36 handpicked coding problems** curated for backend interview depth and pattern coverage.
+- HashMap, Sliding Window, Binary Search, DP patterns
+- Clean, interview-ready Java solutions
 
-- Focused on patterns most asked in backend engineering interviews
-- Solutions written in Java with clean, readable logic
-- Great reference for HashMap, Sliding Window, Binary Search, DP patterns
-
----
+</td>
+<td width="50%" valign="top">
 
 ### 🤖 [pdisk_uploader](https://github.com/paritoshpky5/pdisk_uploader)
-> **Python · Telegram Bot · Automation · Heroku**
+`Python` `Telegram Bot` `Heroku`
 
-My original **PDisk uploader Telegram bot** written in Python — re-hosted here after losing access to my old GitHub account ([@ParitoshPky](https://github.com/ParitoshPky)).
+Original **PDisk uploader bot** — re-hosted after losing access to old GitHub account ([@ParitoshPky](https://github.com/ParitoshPky)).
+- URL / file / forwarded post upload support
+- One-click Heroku deploy
 
-- Upload media to PDisk via URL, direct file, or forwarded Telegram post
-- Permanent thumbnail support + post-to-post channel conversion
-- Configurable via environment variables (Bot Token, API ID, PDisk API Key)
-- One-click Heroku deployment with `Procfile` and `app.json`
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🛠️ Tech Stack
 
-| Layer | Technologies |
+| | |
 |---|---|
-| **Languages** | Java, Python |
-| **Frameworks** | Spring Boot, Spring MVC, Spring Security, Spring Data JPA, Microservices |
-| **Auth** | JWT, RBAC |
-| **Messaging** | Kafka |
-| **Caching** | Redis |
+| **Core** | Java (Collections, Concurrency, Streams), Python |
+| **Backend** | Spring Boot, Spring MVC, Spring Data JPA, Hibernate, Microservices, REST APIs |
+| **Security & Auth** | Spring Security, JWT, RBAC |
+| **Async & Caching** | Kafka, Redis |
 | **Databases** | Oracle, MySQL |
-| **DevOps** | Docker, Jenkins CI/CD, Maven, Git |
-| **Cloud** | AWS (EC2, S3, IAM) |
+| **DevOps & Cloud** | Docker, Jenkins CI/CD, Maven, Git, AWS (EC2, S3, IAM) |
 
 ---
 

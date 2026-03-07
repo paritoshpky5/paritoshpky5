@@ -1,19 +1,19 @@
-# 馃憢 Hey, I'm Paritosh Kumar
+# 👋 Hey, I'm Paritosh Kumar
 
-> **Java Backend Engineer** 路 Spring Boot 路 Microservices 路 REST APIs 路 JWT/RBAC 路 Kafka 路 Redis 路 AWS
+> **Java Backend Engineer** · Spring Boot · Microservices · REST APIs · JWT/RBAC · Kafka · Redis · AWS
 
 I build backend systems that are clean, secure, and production-ready. Currently working on enterprise-grade fintech platforms with a focus on distributed systems and scalable API design.
 
-- 馃敪 Currently working on **FinnOne Neo** 鈥?an enterprise digital lending platform serving ICICI Bank, Muthoot Finance, and more
-- 馃挰 Ask me about **Spring Boot, Microservices, JWT/RBAC, Kafka, or fintech backend design**
-- 鈿?Fun fact: I've resolved 100+ production incidents in live banking systems 鈥?debugging under pressure is basically my cardio
+- 🔭 Currently working on **FinnOne Neo** — an enterprise digital lending platform serving ICICI Bank, Muthoot Finance, and more
+- 💬 Ask me about **Spring Boot, Microservices, JWT/RBAC, Kafka, or fintech backend design**
+- ⚡ Fun fact: I've resolved 100+ production incidents in live banking systems — debugging under pressure is basically my cardio
 
 ---
 
-## 馃殌 Projects
+## 🚀 Projects
 
-### 馃彟 [loan-engine-final](https://github.com/paritoshpky5/loan-engine-final)
-> **Java 路 Spring Boot 路 REST API**
+### 🏦 [loan-engine-final](https://github.com/paritoshpky5/loan-engine-final)
+> **Java · Spring Boot · REST API**
 
 A Spring Boot REST service that evaluates loan applications and decides whether to **approve or reject** them based on applicant eligibility and EMI affordability.
 
@@ -23,8 +23,8 @@ A Spring Boot REST service that evaluates loan applications and decides whether 
 
 ---
 
-### 馃攼 [springboot-rbac-jwt](https://github.com/paritoshpky5/springboot-rbac-jwt)
-> **Java 路 Spring Security 路 JWT 路 RBAC**
+### 🔐 [springboot-rbac-jwt](https://github.com/paritoshpky5/springboot-rbac-jwt)
+> **Java · Spring Security · JWT · RBAC**
 
 A production-style **Role-Based Access Control** system built with Spring Boot and JWT authentication.
 
@@ -35,10 +35,10 @@ A production-style **Role-Based Access Control** system built with Spring Boot a
 
 ---
 
-### 馃挕 [special36](https://github.com/paritoshpky5/special36)
-> **Java 路 Data Structures & Algorithms**
+### 💡 [special36](https://github.com/paritoshpky5/special36)
+> **Java · Data Structures & Algorithms**
 
-A curated set of **36 handpicked coding problems** 鈥?self-selected for interview relevance and problem-solving depth.
+A curated set of **36 handpicked coding problems** — self-selected for interview relevance and problem-solving depth.
 
 - Focused on patterns most asked in backend engineering interviews
 - Solutions written in Java with clean, readable logic
@@ -46,10 +46,10 @@ A curated set of **36 handpicked coding problems** 鈥?self-selected for intervi
 
 ---
 
-### 馃 [pdisk_uploader](https://github.com/paritoshpky5/pdisk_uploader)
-> **Python 路 Telegram Bot 路 Automation 路 Heroku**
+### 🤖 [pdisk_uploader](https://github.com/paritoshpky5/pdisk_uploader)
+> **Python · Telegram Bot · Automation · Heroku**
 
-My original **PDisk uploader Telegram bot** written in Python 鈥?re-hosted here after losing access to my old GitHub account ([@ParitoshPky](https://github.com/ParitoshPky)).
+My original **PDisk uploader Telegram bot** written in Python — re-hosted here after losing access to my old GitHub account ([@ParitoshPky](https://github.com/ParitoshPky)).
 
 - Upload media to PDisk via URL, direct file, or forwarded Telegram post
 - Permanent thumbnail support + post-to-post channel conversion
@@ -58,7 +58,7 @@ My original **PDisk uploader Telegram bot** written in Python 鈥?re-hosted here
 
 ---
 
-## 馃洜锔?Tech Stack
+## 🛠️ Tech Stack
 
 | Layer | Technologies |
 |---|---|
@@ -73,7 +73,7 @@ My original **PDisk uploader Telegram bot** written in Python 鈥?re-hosted here
 
 ---
 
-## 馃摣 Connect
+## 📫 Connect
 
 [![GitHub](https://img.shields.io/badge/GitHub-paritoshpky5-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/paritoshpky5) &nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-paritoshpky-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/paritoshpky)

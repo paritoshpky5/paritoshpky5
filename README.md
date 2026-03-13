@@ -58,7 +58,7 @@ Original **PDisk uploader bot** — re-hosted after losing access to old GitHub 
 </td>
 </tr>
 <tr>
-<td width="100%" valign="top">
+<td width="50%" valign="top">
 
 ### 🐄 [dairykeeper-demo](https://github.com/paritoshpky5/dairykeeper-demo)
 `React` `Supabase` `PostgreSQL` `TailwindCSS` `Vercel`
@@ -68,6 +68,8 @@ A **fully deployed** dairy business management system — milk collection, suppl
 - Real-world domain modeling — ledgers, payments, special rates
 
 </td>
+<td width="50%" valign="top"></td>
+</tr>
 </tr>
 </table>
 

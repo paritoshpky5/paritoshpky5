@@ -6,7 +6,7 @@ I build backend systems that are clean, secure, and production-ready. Currently 
 
 - 🔭 Currently working on **FinnOne Neo** — an enterprise digital lending platform serving ICICI Bank, Muthoot Finance, and more
 - 💬 Ask me about **Spring Boot, Microservices, JWT/RBAC, Kafka, or fintech backend design**
-- ⚡ Fun fact: I've resolved 100+ production incidents in live banking systems — debugging under pressure is basically my cardio
+- ⚡ Fun fact: I've resolved 100+ critical production incidents in live banking systems — debugging under pressure is basically my cardio
 
 ---
 
@@ -56,6 +56,19 @@ Original **PDisk uploader bot** — re-hosted after losing access to old GitHub 
 - One-click Heroku deploy
 
 </td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🐄 [dairykeeper-demo](https://github.com/paritoshpky5/dairykeeper-demo)
+`React` `Supabase` `PostgreSQL` `TailwindCSS` `Vercel`
+
+A **fully deployed** dairy business management system — milk collection, supplier/buyer ledgers, transactions, and event orders. Live at [dairy-keeper-v2.vercel.app](https://dairy-keeper-v2.vercel.app/).
+- End-to-end product: frontend + DB + deployment
+- Real-world domain modeling — ledgers, payments, special rates
+
+</td>
+<td width="50%" valign="top"></td>
 </tr>
 </table>
 

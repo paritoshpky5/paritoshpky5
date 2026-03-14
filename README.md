@@ -63,7 +63,7 @@ Original **PDisk uploader bot** — re-hosted after losing access to old GitHub 
 ### 🐄 [dairykeeper-demo](https://github.com/paritoshpky5/dairykeeper-demo)
 `React` `Supabase` `PostgreSQL` `TailwindCSS` `Vercel`
 
-A **fully deployed** dairy business management system — milk collection, supplier/buyer ledgers, transactions, and event orders. Live at [dairy-keeper-v2.vercel.app](https://dairy-keeper-v2.vercel.app/).
+A **fully deployed** dairy business management system — milk collection, supplier/buyer ledgers, transactions, and event orders.
 - End-to-end product: frontend + DB + deployment
 - Real-world domain modeling — ledgers, payments, special rates
 

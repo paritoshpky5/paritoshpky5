@@ -68,8 +68,16 @@ A **fully deployed** dairy business management system — milk collection, suppl
 - Real-world domain modeling — ledgers, payments, special rates
 
 </td>
-<td width="50%" valign="top"></td>
-</tr>
+<td width="50%" valign="top">
+
+### 👁️ [focus-blink](https://github.com/paritoshpky5/focus-blink)
+`Python` `PySide6` `Windows Utility`
+
+A smart, non-intrusive blink reminder to maintain focus and eye health by countering reduced blink rates during screen time.
+- Aura-glow pulse + high-fidelity audio cues
+- Smart fullscreen and idle detection logic
+
+</td>
 </tr>
 </table>
 
@@ -83,8 +91,8 @@ A **fully deployed** dairy business management system — milk collection, suppl
 | **Backend** | Spring Boot, Spring MVC, Spring Data JPA, Hibernate, Microservices, REST APIs |
 | **Security & Auth** | Spring Security, JWT, RBAC |
 | **Async & Caching** | Kafka, Redis |
-| **Databases** | Oracle, MySQL |
-| **DevOps & Cloud** | Docker, Jenkins CI/CD, Maven, Git, AWS (EC2, S3, IAM) |
+| **Databases** | Oracle, MySQL, PostgreSQL |
+| **DevOps & Cloud** | Docker, Jenkins CI/CD, Maven, Git, AWS (EC2, S3, IAM), Vercel |
 
 ---
 
